@@ -1,4 +1,4 @@
 # responsive_html
 Mobil Uyumlu 
-Html İskeleti
+Html İskeleti,
 Responsive CSS
